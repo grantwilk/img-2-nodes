@@ -1,4 +1,4 @@
-#Img2Nodes
+## Img2Nodes
 
 Img2Nodes is a goofy Blender 2.79 add-on I made that converts any image in the UV/Image Editor into colored compositor nodes. It doesn't do anything practical, but it was fun to make!
 
